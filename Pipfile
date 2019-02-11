@@ -8,6 +8,8 @@ django = "*"
 djangorestframework = "*"
 django-rest-auth = {extras = ["with-social"], version = "*"}
 djangorestframework-jwt = "*"
+django-allauth = "*"
+django-cors-headers = "*"
 
 [dev-packages]
 "autopep8" = "*"
